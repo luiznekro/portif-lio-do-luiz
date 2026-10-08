@@ -1,0 +1,22 @@
+a p{
+
+background-color:rgb(161, 24, 90) ;
+width: 50% ;
+padding: 15px ;
+color: rgb(199, 193, 193);
+font-weight: bold;
+border-style: groove;
+border-radius: 15px;
+text-align: center;
+transition: 1s all;
+cursor: pointer;
+margin: 15px auto;
+}
+body{
+    text-align: center;
+}
+a p:hover{
+    background-color: aqua;
+    transform: scale(1.1);
+    transform: rotate(5deg);
+}

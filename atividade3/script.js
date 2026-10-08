@@ -15,5 +15,3 @@ if(resultado <=0){
 
 
 }
-
-
