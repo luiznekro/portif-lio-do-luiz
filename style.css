@@ -20,3 +20,7 @@ a p:hover{
     transform: scale(1.1);
     transform: rotate(5deg);
 }
+img{
+    margin-top: 40px;
+    width: 175px;
+}
